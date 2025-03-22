@@ -44,7 +44,7 @@
 #     # Filter: leads > £10
 #     filtered_df = df[df["Lead Value (£)"] > 10].copy()
 
-#     st.success("✅ Scraping complete! Preview below:")
+#     st.success(" Scraping complete! Preview below:")
 #     st.dataframe(filtered_df)
 
 #     # Download button
@@ -57,7 +57,7 @@
 #     )
 
 #     # Extra Thoughtfulness: Add lead scoring (simulated)
-#     filtered_df["Lead Score"] = filtered_df["Lead Value (£)"].apply(lambda x: "🔥 High" if x > 40 else "👍 Medium")
+#     filtered_df["Lead Score"] = filtered_df["Lead Value (£)"].apply(lambda x: " High" if x > 40 else " Medium")
 #     st.write("### Lead Scoring Summary")
 #     st.dataframe(filtered_df[["Lead Name", "Lead Value (£)", "Lead Score"]])
 
