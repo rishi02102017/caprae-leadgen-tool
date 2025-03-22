@@ -59,5 +59,5 @@ This project was completed in under 5 hours and focused on replicating a **quali
 ---
 
 ## 📩 Contact
-Email: jyotishmandas85p@gmail.com/m24csa013@iitj.ac.in
-GitHub: rishi02102017
+- Email: jyotishmandas85p@gmail.com/m24csa013@iitj.ac.in
+- GitHub: rishi02102017
